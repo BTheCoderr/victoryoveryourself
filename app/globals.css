@@ -6,3 +6,5 @@
 .honeypot{position:absolute!important;left:-9999px!important;width:1px!important;height:1px!important;overflow:hidden!important}
 
 .form-status{margin:18px 0 0!important;font-size:10px!important;font-weight:800;letter-spacing:.16em}
+
+.header-preorder{margin-left:34px;border:1px solid #111;padding:11px 14px;font-size:9px;font-weight:800;letter-spacing:.15em}.policy{min-height:100vh;padding:8vw 7vw;max-width:980px}.policy>a:first-child{font-size:10px;font-weight:800;letter-spacing:.16em}.policy .eyebrow{margin-top:12vh}.policy h1{font-size:clamp(64px,10vw,150px);line-height:.82;letter-spacing:-.07em;margin:25px 0 45px}.policy>p:not(.eyebrow){max-width:700px;font-size:16px;line-height:1.7}.policy .cta{margin-top:35px}@media(max-width:750px){.header-preorder{margin-left:auto;padding:9px 10px}.policy{padding:12vw 6vw}.policy .eyebrow{margin-top:10vh}}
