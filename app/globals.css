@@ -8,3 +8,10 @@
 .form-status{margin:18px 0 0!important;font-size:10px!important;font-weight:800;letter-spacing:.16em}
 
 .header-preorder{margin-left:34px;border:1px solid #111;padding:11px 14px;font-size:9px;font-weight:800;letter-spacing:.15em}.policy{min-height:100vh;padding:8vw 7vw;max-width:980px}.policy>a:first-child{font-size:10px;font-weight:800;letter-spacing:.16em}.policy .eyebrow{margin-top:12vh}.policy h1{font-size:clamp(64px,10vw,150px);line-height:.82;letter-spacing:-.07em;margin:25px 0 45px}.policy>p:not(.eyebrow){max-width:700px;font-size:16px;line-height:1.7}.policy .cta{margin-top:35px}@media(max-width:750px){.header-preorder{margin-left:auto;padding:9px 10px}.policy{padding:12vw 6vw}.policy .eyebrow{margin-top:10vh}}
+
+.info small{display:block;margin-top:9px;color:#817a70;font-size:9px;line-height:1.45;letter-spacing:.06em}
+.fit-guide{border-top:1px solid #bdb4a8;padding:8vw 8vw;display:grid;grid-template-columns:.55fr 1.45fr;gap:7vw}
+.fit-guide h2{font-size:clamp(42px,6vw,88px);letter-spacing:-.06em;line-height:.9;margin:0 0 30px}
+.fit-guide div>p{max-width:680px;font-size:16px;line-height:1.65}
+.fit-guide .fit-note{margin-top:24px;font-size:10px;letter-spacing:.08em;text-transform:uppercase;color:#69645d}
+@media(max-width:750px){.fit-guide{grid-template-columns:1fr;padding:80px 6vw;gap:30px}.fit-guide h2{font-size:14vw}.hero-art.photo img{object-position:center}.product.real img{object-position:center}}
